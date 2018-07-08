@@ -16,5 +16,6 @@ shixisheng---分析app数据包抓取实习僧在招实习生职位，并分析
 教程见：https://blog.csdn.net/liuty66/article/details/80626324
 
 
-fiction---Python版81中文网小说爬取--以《都市奇门医圣》为例
+python_shixi---python版实习僧，
 ------------------------------
+使用mongodb存储，爬取了详细任职要求
