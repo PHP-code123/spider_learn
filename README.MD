@@ -15,6 +15,8 @@ shixisheng---分析app数据包抓取实习僧在招实习生职位，并分析
 -----------------------------
 教程见：https://blog.csdn.net/liuty66/article/details/80626324
 
+yingjiesheng---使用scrapy框架对应届生求职网进行职位信息的抓取，包括
+-----------------------------
 
 python_shixi---python版实习僧，
 ------------------------------
