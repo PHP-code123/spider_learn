@@ -6,7 +6,7 @@
 
 maoyan----利用lxml 和urllib.request 爬取猫眼即将上映电影，并进行简单的统计分析使用matplotlib进行图表绘制。
 ------------------------------
-教程见：
+教程见：https://blog.csdn.net/liuty66/article/details/94757393
 
 Test----利用java 和jsoup 爬取应届生实习网nlp岗位详细信息要求。
 ------------------------------
