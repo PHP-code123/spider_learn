@@ -1,0 +1,11 @@
+步骤一：打开设置文件
+import matplotlib
+matplotlib.matplotlib_fname()
+会显示matplotlibrc文件的地址： E:\Anaconda2-4\lib\site-packages\matplotlib\mpl-data\matplotlibrc
+
+步骤二：修改matplotlibrc文件
+将文件中的
+#font.family: sans-serif
+在注释的下一行，添加一行：
+font.family: Microsoft YaHei
+可显示为中文
